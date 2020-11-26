@@ -22,7 +22,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 
-$ git clone https://github.com/Talha-35/IMDB-Search-Movies-with-React.git
+$ git clone https://github.com/Talha-35/IMDB-with-React-Route-Switch-Context-useParams-.git
 
 $ yarn install
 
